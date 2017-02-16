@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/gustavocd/api-rest-pgsql",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.3.0",
+			"Rev": "392c28fe23e1c45ddba891b0320b3b5df220beea"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-151-gba5d4f7",
+			"Rev": "ba5d4f7a35561e22fbdf7a39aa0070f4d460cfc0"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "go1.0-cutoff-151-gba5d4f7",
+			"Rev": "ba5d4f7a35561e22fbdf7a39aa0070f4d460cfc0"
+		}
+	]
+}
